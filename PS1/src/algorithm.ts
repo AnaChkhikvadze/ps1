@@ -87,7 +87,7 @@ export function update(
   difficulty: AnswerDifficulty
 ): BucketMap {
   // TODO: Implement this function
-  throw new Error("Implement me!");
+  throw new Error("საჭიროებს იმპლემენტაციას");
 }
 
 /**
